@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/newuser.LAPTOP-JVLU65UC/Documents/Rahul/Programmig/SFML/Tetris/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Tetris.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\Tetris.dir\\src\\main.cpp.obj -c C:\\Users\\newuser.LAPTOP-JVLU65UC\\Documents\\Rahul\\Programmig\\SFML\\Tetris\\src\\main.cpp",
+  "file": "C:/Users/newuser.LAPTOP-JVLU65UC/Documents/Rahul/Programmig/SFML/Tetris/src/main.cpp"
+}
+]
